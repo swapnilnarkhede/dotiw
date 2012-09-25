@@ -1,3 +1,4 @@
 = dotiw for java
 
 <b>Distance of time in words for Java. </b>
+just use this method to show distance of time in words
