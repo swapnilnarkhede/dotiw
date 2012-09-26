@@ -2,3 +2,24 @@
 
 <b>Distance of time in words for Java. </b>
 just use this method to show distance of time in words
+
+Pass in the time as a variable :
+
+ calculate_difference_of_time(long yourTimeInSeconds)
+
+The distance is calculated with respect to cuurent time only. That means you will receive the distance of time till now.
+
+ calculate_difference_of_time(long yourTimeInSeconds)
+ => About 7 months ago
+
+Supports Seconds, Hours, Days, Weeks, Months and Years too !
+
+== Contributing
+
+ 1. Fork it
+ 2. Create your feature branch (`git checkout -b my-new-feature`)
+ 3. Commit your changes (`git commit -am 'Added some feature'`)
+ 4. Push to the branch (`git push origin my-new-feature`)
+ 5. Create new Pull Request
+
+<b>Thank you !</b>
